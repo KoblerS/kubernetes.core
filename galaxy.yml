@@ -8,15 +8,16 @@ authors:
   - willthames (https://github.com/willthames)
   - mmazur (https://github.com/mmazur)
   - jamescassell (https://github.com/jamescassell)
+  - KoblerS (https://github.com/KoblerS)
 description: Kubernetes Collection for Ansible.
 documentation: ""
 homepage: ""
-issues: https://github.com/ansible-collections/kubernetes.core/issues
+issues: https://github.com/KoblerS/kubernetes.core/issues
 license_file: LICENSE
 namespace: kubernetes
-name: core
+name: forked
 readme: README.md
-repository: https://github.com/ansible-collections/kubernetes.core
+repository: https://github.com/KoblerS/kubernetes.core
 tags:
   - kubernetes
   - k8s
@@ -25,7 +26,7 @@ tags:
   - openshift
   - okd
   - cluster
-version: 5.2.0-dev0
+version: 1.0.0
 build_ignore:
   - .DS_Store
   - "*.tar.gz"
